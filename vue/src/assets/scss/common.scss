@@ -1,0 +1,34 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background: #f1f1f1;
+    font-size: 0.18rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #212121;
+}
+
+html #sg {
+    margin: 0;
+}
+
+.mint-cell-allow-right::after {
+    border: solid 2px #06816c;
+    width: 10px;
+    height: 10px;
+    border-left-width: 0;
+    border-bottom-width: 0;
+}
+
+.mint-cell:last-child {
+    background-image: none;
+}

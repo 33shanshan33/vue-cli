@@ -1,0 +1,44 @@
+// {
+//     "getList": [{
+//             "link": "/personMoney",
+//             "title": "资产管理",
+//             "url": "/static/img/personal-center-icon1.png",
+//             "money": true
+
+//         },
+//         {
+//             "link": "/myMoney",
+//             "title": "我的资产",
+//             "url": "/static/img/personal-center-icon2.png",
+//             "money": false
+
+//         },
+//         {
+//             "link": "/myMoney",
+//             "title": "个人中心",
+//             "url": "/static/img/personal-center-icon3.png",
+//             "money": false
+
+//         },
+//         {
+//             "link": "/myMoney",
+//             "title": "联系我们",
+//             "url": "/static/img/personal-center-icon4.png",
+//             "money": false
+
+//         }
+//     ]
+// }
+[{
+        "name": "tss",
+        "title": "我是还是啥试试水"
+    },
+    {
+        "name": "rfd",
+        "title": "rddeee"
+    },
+    {
+        "name": "wws",
+        "title": "tfeeeyuuiii"
+    }
+]
